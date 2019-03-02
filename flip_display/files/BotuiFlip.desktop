@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=BotuiFlip
+Comment=flip the UI back to a different orientation
+Exec=/home/root/flip_input.sh 1
+Terminal=true
+Type=Application
+StartupNotify=true
+Categories=System;Settings;
